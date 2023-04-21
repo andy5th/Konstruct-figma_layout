@@ -424,6 +424,10 @@ body {
     max-width: 141px;
 }
 
+.footer__contact-mobile {
+    display: none;
+}
+
 .adress {
     text-transform: capitalize;
 }
