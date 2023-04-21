@@ -167,3 +167,32 @@
         margin-bottom: 36px;
     }
 }
+
+@media (max-width:375px) {
+    .signup__mail {
+        margin-bottom: 12px;
+    }
+
+    .footer__block {
+        padding: 20px 10px;
+    }
+
+    .item {
+        margin: 0 10px;
+    }
+
+    .footer__contact {
+        display: none;
+    }
+
+    .footer__contact-mobile {
+        display: block;
+        padding: 0 10px 10px 10px;
+    }
+}
+
+@media (max-width:320px) {
+    .navigation__item {
+        margin: 0 -7px;
+    }
+}
